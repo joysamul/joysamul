@@ -81,13 +81,13 @@ Hi! I'm **Joy Samul**, a Computer Science and Engineering student at Techno Indi
 
 ### 📈 Contribution Activity Graph
 
+
 <div align="center">
 
-  <a href="https://github.com/joysamul">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joysamul&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-  </a>
+  [![Joy Samul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joysamul&theme=tokyo-night)](https://github.com/joysamul)
 
 </div>
+
 
 ### ⭐ Repository & Contribution Highlights
 
